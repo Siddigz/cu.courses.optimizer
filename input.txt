@@ -1,678 +1,679 @@
 Registration Closed 	31186 	COMP 1001 	A 	Computing for Arts Students 	.5 	Lecture 	Yes 	No 	Leila Chinaei
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
   	Section Information:  Section Type - IN-PERSON SECTION. For Arts & Social Science students only. See also winter term. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for COMP 1004 (no longer offered). This course cannot be taken for credit by students in Business, Engineering, Computer Science, Mathematics or Science.
-
+ 
   	Registration Closed 	31187 	COMP 1005 	A 	Introduc to Computer Science I 	.5 	Lecture 	Yes 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
   	Also Register in: COMP 1005 A1 or A2 or A3
   	Section Information:  Section Type - IN-PERSON SECTION. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1405, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
-
+ 
   	Registration Closed 	31188 	COMP 1005 	A1 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 19:35 - 20:55
   	Also Register in: COMP 1005 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorials are synchronous.
-
+ 
   	Registration Closed 	31189 	COMP 1005 	A2 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 18:05 - 19:25
   	Also Register in: COMP 1005 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorials are synchronous.
-
+ 
   	Registration Closed 	31190 	COMP 1005 	A3 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 19:35 - 20:55
   	Also Register in: COMP 1005 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorials are synchronous.
-
+ 
   	Registration Closed 	31195 	COMP 1005 	C 	Introduc to Computer Science I 	.5 	Lecture 	Yes 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
   	Also Register in: COMP 1005 C1 or C2 or C3
   	Section Information:  Section Type - IN-PERSON SECTION. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1405, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
-
+ 
   	Registration Closed 	31196 	COMP 1005 	C1 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 08:35 - 09:55
   	Also Register in: COMP 1005 C
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31197 	COMP 1005 	C2 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 11:35 - 12:55
   	Also Register in: COMP 1005 C
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31198 	COMP 1005 	C3 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:05 - 14:25
   	Also Register in: COMP 1005 C
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31199 	COMP 1005 	D 	Introduc to Computer Science I 	.5 	Lecture 	Yes 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 13:05 - 14:25
   	Also Register in: COMP 1005 D1 or D2 or D3
   	Section Information:  Section Type - IN-PERSON SECTION. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1405, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
-
+ 
   	Registration Closed 	31200 	COMP 1005 	D1 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:05 - 11:25
   	Also Register in: COMP 1005 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31201 	COMP 1005 	D2 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 08:35 - 09:55
   	Also Register in: COMP 1005 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31202 	COMP 1005 	D3 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 08:35 - 09:55
   	Also Register in: COMP 1005 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31203 	COMP 1005 	E 	Introduc to Computer Science I 	.5 	Lecture 	Yes 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
   	Also Register in: COMP 1005 E1 or E2
   	Section Information:  Section Type - IN-PERSON SECTION. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1405, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
-
+ 
   	Registration Closed 	31204 	COMP 1005 	E1 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 18:05 - 19:25
   	Also Register in: COMP 1005 E
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31205 	COMP 1005 	E2 	Introduc to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 13:05 - 14:25
   	Also Register in: COMP 1005 E
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31206 	COMP 1006 	A 	Introdu to Computer Science II 	.5 	Lecture 	Yes 	Yes 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
   	Also Register in: COMP 1006 A1 or A2 or A3
   	Section Information:  Section Type - IN-PERSON SECTION Minimum grade of C- required in this course. See 2023-24 Undergraduate Calendar for all prerequisites. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 2400, BUSI 2402, COMP 1406, ITEC 2400, ITEC 2401, SYSC 2004.
-
+ 
   	Registration Closed 	31207 	COMP 1006 	A1 	Introdu to Computer Science II 	0 	Tutorial 	No 	No 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 18:05 - 19:25
   	Also Register in: COMP 1006 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31208 	COMP 1006 	A2 	Introdu to Computer Science II 	0 	Tutorial 	No 	No 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 15:55
   	Also Register in: COMP 1006 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31209 	COMP 1006 	A3 	Introdu to Computer Science II 	0 	Tutorial 	No 	No 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 14:35 - 15:55
   	Also Register in: COMP 1006 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31210 	COMP 1008 	A 	Math for Game Programmers 	.5 	Lecture 	No 	No 	Wilf Lalonde
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 18:05 - 20:55
   	Section Information:  Section Type - IN-PERSON SECTION. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/ Calendar prerequisite: one Grade 12 university preparation mathematics course.
-
+ 
   	Registration Closed 	31211 	COMP 1405 	A 	Intro to Computer Science I 	.5 	Lecture 	Yes 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
   	Also Register in: COMP 1405 A1 or A2 or A3
   	Section Information:  Section Type - IN-PERSON SECTION. For BCS & joint Honours programs. Others see COMP 1005. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1005, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/.
-
+ 
   	Registration Closed 	31212 	COMP 1405 	A1 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 19:35 - 20:55
   	Also Register in: COMP 1405 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorials are synchronous.
-
+ 
   	Registration Closed 	31213 	COMP 1405 	A2 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 18:05 - 19:25
   	Also Register in: COMP 1405 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorials are synchronous.
-
+ 
   	Registration Closed 	31214 	COMP 1405 	A3 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 19:35 - 20:55
   	Also Register in: COMP 1405 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorials are synchronous.
-
+ 
   	Registration Closed 	31219 	COMP 1405 	C 	Intro to Computer Science I 	.5 	Lecture 	Yes 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
   	Also Register in: COMP 1405 C1 or C2 or C3
   	Section Information:  Section Type - IN-PERSON SECTION. For BCS & joint Honours programs. Others see COMP 1005. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1005, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005.
-
+ 
   	Registration Closed 	31220 	COMP 1405 	C1 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 08:35 - 09:55
   	Also Register in: COMP 1405 C
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31221 	COMP 1405 	C2 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 11:35 - 12:55
   	Also Register in: COMP 1405 C
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31222 	COMP 1405 	C3 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Yanan Mao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:05 - 14:25
   	Also Register in: COMP 1405 C
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31223 	COMP 1405 	D 	Intro to Computer Science I 	.5 	Lecture 	Yes 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 13:05 - 14:25
   	Also Register in: COMP 1405 D1 or D2 or D3
   	Section Information:  Section Type - IN-PERSON SECTION. For BCS & joint Honours programs. Others see COMP 1005. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1005, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005.
-
+ 
   	Registration Closed 	31224 	COMP 1405 	D1 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:05 - 11:25
   	Also Register in: COMP 1405 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31225 	COMP 1405 	D2 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 08:35 - 09:55
   	Also Register in: COMP 1405 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31226 	COMP 1405 	D3 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 08:35 - 09:55
   	Also Register in: COMP 1405 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31227 	COMP 1405 	E 	Intro to Computer Science I 	.5 	Lecture 	Yes 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
   	Also Register in: COMP 1405 E1 or E2
   	Section Information:  Section Type - IN-PERSON SECTION. For BCS & joint Honours programs. Others see COMP 1005. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1005, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005.
-
+ 
   	Registration Closed 	31228 	COMP 1405 	E1 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 18:05 - 19:25
   	Also Register in: COMP 1405 E
   	Section Information:  Section Type - IN-PERSON SECTION
-
+ 
   	Registration Closed 	31229 	COMP 1405 	E2 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Sean Benjamin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 13:05 - 14:25
   	Also Register in: COMP 1405 E
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31232 	COMP 1405 	Z 	Intro to Computer Science I 	.5 	Lecture 	No 	No 	Farah Chanchary
   	Meeting Date: Sep 04, 2024 to Oct 18, 2024 Days: Time:
   	Also Register in: COMP 1405 Z1 or Z2
   	Section Information:  Section Type -ONLINE ASYNCHRONOUS SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person only (campus presence is required). Registration time conflicts are permitted for the lecture section only. NOTE: This section is for Dev Degree students and BCS students with an admit average of 90% or above. Departmental permission is required -- please submit a registration override request. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Students in this section must also register for COMP1406 Z in fall term. Precludes additional credit for BIT 1400, CGSC 1005, COMP 1005, ECOR 1041, ECOR 1042, ECOR 1051, ECOR 1606, ITEC 1400, ITEC 1401, SYSC 1005.
-
+ 
   	Registration Closed 	31233 	COMP 1405 	Z1 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Farah Chanchary
   	Meeting Date: Sep 04, 2024 to Oct 18, 2024 Days: Thu Time: 11:35 - 14:25
   	Also Register in: COMP 1405 Z
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory. In-term tests will be held during scheduled tutorial times.
-
+ 
   	Registration Closed 	31234 	COMP 1405 	Z2 	Intro to Computer Science I 	0 	Tutorial 	No 	No 	Farah Chanchary
   	Meeting Date: Sep 04, 2024 to Oct 18, 2024 Days: Thu Time: 14:35 - 17:25
   	Also Register in: COMP 1405 Z
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory. In-term tests will be held during scheduled tutorial times.
-
+ 
   	Registration Closed 	31235 	COMP 1406 	A 	Intro to Computer Science II 	.5 	Lecture 	Yes 	Yes 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
   	Also Register in: COMP 1406 A1 or A2 or A3
   	Section Information:  Section Type - IN-PERSON SECTION. For BCS & joint Honours programs. Others see COMP 1006. Minimum grade of C- required in this course. See 2024-25 Undergraduate Calendar for all prerequisites. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Precludes additional credit for BIT 2400, BUSI 2402, COMP 1006, ITEC 2400, ITEC 2401, SYSC 2004.
-
+ 
   	Registration Closed 	31236 	COMP 1406 	A1 	Intro to Computer Science II 	0 	Tutorial 	No 	No 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 18:05 - 19:25
   	Also Register in: COMP 1406 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31237 	COMP 1406 	A2 	Intro to Computer Science II 	0 	Tutorial 	No 	No 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 15:55
   	Also Register in: COMP 1406 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31238 	COMP 1406 	A3 	Intro to Computer Science II 	0 	Tutorial 	No 	No 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 14:35 - 15:55
   	Also Register in: COMP 1406 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31239 	COMP 1406 	Z 	Intro to Computer Science II 	.5 	Lecture 	No 	Yes 	Farah Chanchary
   	Meeting Date: Oct 28, 2024 to Dec 06, 2024 Days: Time:
   	Also Register in: COMP 1406 Z1 or Z2
   	Section Information:  Section Type - ONLINE ASYNCHRONOUS SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person only (campus presence is required). Registration time conflicts are permitted for the lecture section only. NOTE: Only students registered in COMP1405 Z may register for this section. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Minimum grade of C- required in this course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for BIT 2400, BUSI 2402, COMP 1006, ITEC 2400, ITEC 2401, SYSC 2004.
-
+ 
   	Registration Closed 	31240 	COMP 1406 	Z1 	Intro to Computer Science II 	0 	Tutorial 	No 	No 	Farah Chanchary
   	Meeting Date: Oct 28, 2024 to Dec 06, 2024 Days: Thu Time: 11:35 - 14:25
   	Also Register in: COMP 1406 Z
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory. In-term tests will be held during schedules tutorial times.
-
+ 
   	Registration Closed 	31241 	COMP 1406 	Z2 	Intro to Computer Science II 	0 	Tutorial 	No 	No 	Farah Chanchary
   	Meeting Date: Oct 28, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 17:25
   	Also Register in: COMP 1406 Z
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory. In-term tests will be held during schedules tutorial times.
-
+ 
   	Registration Closed 	31242 	COMP 1805 	A 	Discrete Structures I 	.5 	Lecture 	Yes 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
   	Also Register in: COMP 1805 A1 or A2 or A3
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. This course will be delivered synchronously, typically with one lecture a week conducted in person and the other delivered online. Attendance to both the in-person and the online lectures is mandatory. Laptop required for all first year in-person courses: Laptop requirement. Precludes additional credit for MATH 1800 and is not equivalent. Grade of C- or above required in order to take COMP 2804. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
-
+ 
   	Registration Closed 	31243 	COMP 1805 	A1 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 13:35 - 14:25
   	Also Register in: COMP 1805 A
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31244 	COMP 1805 	A2 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 13:35 - 14:25
   	Also Register in: COMP 1805 A
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31245 	COMP 1805 	A3 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 12:35 - 13:25
   	Also Register in: COMP 1805 A
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31246 	COMP 1805 	B 	Discrete Structures I 	.5 	Lecture 	Yes 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
   	Also Register in: COMP 1805 B1 or B2
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. This course will be delivered synchronously, typically with one lecture a week conducted in person and the other delivered online. Attendance to both the in-person and the online lectures is mandatory. Precludes additional credit for MATH 1800 and is not equivalent. Grade of C- or above required in order to take COMP 2804. Laptop required for all first year in-person courses: Laptop requirement. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
-
+ 
   	Registration Closed 	31247 	COMP 1805 	B1 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 13:35 - 14:25
   	Also Register in: COMP 1805 B
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31248 	COMP 1805 	B2 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 10:35 - 11:25
   	Also Register in: COMP 1805 B
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31250 	COMP 1805 	C 	Discrete Structures I 	.5 	Lecture 	Yes 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
   	Also Register in: COMP 1805 C1 or C2 or C3
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION This course will be delivered synchronously, typically with one lecture a week conducted in person and the other delivered online. Attendance to both the in-person and the online lectures is mandatory. Laptop required for all first year COMP courses. See https://carleton.ca/scs/scs-laptop-requirement/. Grade of C- or above required in order to take COMP 2804. Precludes additional credit for MATH 1800 and is not equivalent. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
-
+ 
   	Registration Closed 	31251 	COMP 1805 	C1 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 16:35 - 17:25
   	Also Register in: COMP 1805 C
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31252 	COMP 1805 	C2 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 13:35 - 14:25
   	Also Register in: COMP 1805 C
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31253 	COMP 1805 	C3 	Discrete Structures I 	0 	Tutorial 	No 	No 	Robert Collier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 08:35 - 09:25
   	Also Register in: COMP 1805 C
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31256 	COMP 2108 	A 	Applied Crypto and Authentic 	.5 	Lecture 	Yes 	Yes 	Jason Hinek
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
   	Section Information:  Section Type - IN-PERSON SECTION. Priority to BCS students in Computer & Internet Security and Cybersecurity streams. On July 24 at 9:00am, permission will be given to all other BCS students. Non-BCS students with course on academic audit or as an option in their program must submit a registration override request on Carleton Central. Calendar prerequisites must be met and access is space permitting. Renumbered from COMP 3109 in Fall 2023. Prerequisites are (COMP 1006 or COMP 1406 or SYSC 2004) with a minimum grade of C-, and COMP 2804. Precludes additional credit for COMP 3109 (no longer offered) and COMP 4109 (no longer offered). COMP 2108 is now a prerequisite for COMP 4108. See 2024-25 Undergraduate Calendar.
-
+ 
   	Registration Closed 	31257 	COMP 2401 	A 	Intro to Systems Programming 	.5 	Lecture 	Yes 	Yes 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
   	Also Register in: COMP 2401 A1 or A2 or A3
   	Section Information:  Section Type - IN-PERSON SECTION. Minimum grade of C- required in this course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 2006 and is not equivalent, unless taken prior to Fall 2018.
-
+ 
   	Registration Closed 	31258 	COMP 2401 	A1 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 11:35 - 12:55
   	Also Register in: COMP 2401 A
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31259 	COMP 2401 	A2 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 16:05 - 17:25
   	Also Register in: COMP 2401 A
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31260 	COMP 2401 	A3 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 13:05 - 14:25
   	Also Register in: COMP 2401 A
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31261 	COMP 2401 	B 	Intro to Systems Programming 	.5 	Lecture 	Yes 	Yes 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:05 - 17:25
   	Also Register in: COMP 2401 B1 or B2 or B3
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Only the end-of-term final exam will be in person (campus presence is required). Minimum grade of C- required in this course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 2006 and is not equivalent, unless taken prior to Fall 2018.
-
+ 
   	Registration Closed 	31262 	COMP 2401 	B1 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 14:35 - 15:55
   	Also Register in: COMP 2401 B
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31263 	COMP 2401 	B2 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 13:05 - 14:25
   	Also Register in: COMP 2401 B
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31264 	COMP 2401 	B3 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 11:35 - 12:55
   	Also Register in: COMP 2401 B
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31265 	COMP 2401 	C 	Intro to Systems Programming 	.5 	Lecture 	Yes 	Yes 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
   	Also Register in: COMP 2401 C1 or C2 or C3
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Only end-of-term final exam will be in person (campus presence is required). Minimum grade of C- required in this course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 2006 and is not equivalent, unless taken prior to Fall 2018.
-
+ 
   	Registration Closed 	31266 	COMP 2401 	C1 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 08:35 - 09:55
   	Also Register in: COMP 2401 C
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31267 	COMP 2401 	C2 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:05 - 14:25
   	Also Register in: COMP 2401 C
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31268 	COMP 2401 	C3 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Connor Hillen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 11:35 - 12:55
   	Also Register in: COMP 2401 C
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31269 	COMP 2401 	D 	Intro to Systems Programming 	.5 	Lecture 	Yes 	Yes 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
   	Also Register in: COMP 2401 D1 or D2
   	Section Information:  Section Type - IN-PERSON SECTION. Minimum grade of C- required in this course. See 2024-25 Undergraduate Calendar for all prerequisites. There will be no in-person in-term assessment or in-person final exam. Precludes additional credit for SYSC 2006 and is not equivalent, unless taken prior to Fall 2018.
-
+ 
   	Registration Closed 	31270 	COMP 2401 	D1 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 10:05 - 11:25
   	Also Register in: COMP 2401 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31271 	COMP 2401 	D2 	Intro to Systems Programming 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 16:05 - 17:25
   	Also Register in: COMP 2401 D
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31272 	COMP 2402 	A 	Abstract Data Types & Algorithms 	.5 	Lecture 	Yes 	Yes 	Alina Shaikhet
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. The midterm and final exams will be in person (campus presence is required). The section is not suitable for distance students. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 2100 and is not equivalent, unless taken prior to Fall 2022.
-
+ 
   	Registration Closed 	31273 	COMP 2402 	B 	Abstract Data Types & Algorithms 	.5 	Lecture 	Yes 	Yes 	Alina Shaikhet
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
   	Section Information:  Section Type - ONLINE ASYNCHRONOUS SECTION. The midterm and final exams will be in person (campus presence is required). The section is not suitable for distance students. Registration time conflicts are permitted. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 2100 and is not equivalent, unless taken prior to Fall 2022.
-
+ 
   	Registration Closed 	31274 	COMP 2402 	C 	Abstract Data Types & Algorithms 	.5 	Lecture 	Yes 	Yes 	Alina Shaikhet
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. The midterm and final exams will be in person (campus presence is required). The section is not suitable for distance students. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 2100 and is not equivalent, unless taken prior to Fall 2022.
-
+ 
   	Registration Closed 	31275 	COMP 2404 	A 	Intro to Software Engineering 	.5 	Lecture 	Yes 	Yes 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
   	Also Register in: COMP 2404 A1 or A2 or A3
   	Section Information:  Section Type - IN-PERSON SECTION. This is an in-person lecture recorded over Zoom with lecture videos posted to Brightspace. Tutorials are synchronous and in-person. Assignments and weekly tutorial exercises will be submitted online. The midterm and final exams will be in-person. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 3010, SYSC 3110.
-
+ 
   	Registration Closed 	31276 	COMP 2404 	A1 	Intro to Software Engineering 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 11:35 - 12:55
   	Also Register in: COMP 2404 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31277 	COMP 2404 	A2 	Intro to Software Engineering 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 16:05 - 17:25
   	Also Register in: COMP 2404 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31278 	COMP 2404 	A3 	Intro to Software Engineering 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 10:05 - 11:25
   	Also Register in: COMP 2404 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31279 	COMP 2404 	B 	Intro to Software Engineering 	.5 	Lecture 	Yes 	Yes 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
   	Also Register in: COMP 2404 B1 or B2 or B3
   	Section Information:  Section Type - IN-PERSON SECTION. This is an in-person lecture recorded over Zoom with lecture videos posted to Brightspace. Tutorials are synchronous and in-person. Assignments and weekly tutorial exercises will be submitted online. The midterm and final exams will be in-person. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 3010, SYSC 3110.
-
+ 
   	Registration Closed 	31280 	COMP 2404 	B1 	Intro to Software Engineering 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 14:35 - 15:55
   	Also Register in: COMP 2404 B
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31281 	COMP 2404 	B2 	Intro to Software Engineering 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 15:55
   	Also Register in: COMP 2404 B
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31282 	COMP 2404 	B3 	Intro to Software Engineering 	0 	Tutorial 	No 	No 	Darryl Hill
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 13:05 - 14:25
   	Also Register in: COMP 2404 B
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31283 	COMP 2406 	A 	Fundamentals Web Applications 	.5 	Lecture 	Yes 	Yes 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
   	Also Register in: COMP 2406 A1 or A2 or A3 or A4
   	Section Information:  Section Type - ONLINE ASYNCHRONOUS SECTION. Registration time conflicts permitted for lecture section only. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 4504.
-
+ 
   	Registration Closed 	31284 	COMP 2406 	A1 	Fundamentals Web Applications 	0 	Tutorial 	No 	No 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 15:55
   	Also Register in: COMP 2406 A
   	Section Information:  Section Type - IN-PERSON SECTION WITH ALTERNATIVES FOR ONLINE STUDENTS. Weekly tutorials will be held in person on campus but students could also complete and submit tutorials and assignments online. Registration time conflicts permitted for lecture section only.
-
+ 
   	Registration Closed 	31285 	COMP 2406 	A2 	Fundamentals Web Applications 	0 	Tutorial 	No 	No 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 16:05 - 17:25
   	Also Register in: COMP 2406 A
   	Section Information:  Section Type - IN-PERSON SECTION WITH ALTERNATIVES FOR ONLINE STUDENTS. Weekly tutorials will be held in person on campus but students could also complete and submit tutorials and assignments online. Registration time conflicts permitted for lecture section only.
-
+ 
   	Registration Closed 	31286 	COMP 2406 	A3 	Fundamentals Web Applications 	0 	Tutorial 	No 	No 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 13:05 - 14:25
   	Also Register in: COMP 2406 A
   	Section Information:  Section Type - IN-PERSON SECTION WITH ALTERNATIVES FOR ONLINE STUDENTS. Weekly tutorials will be held in person on campus but students could also complete and submit tutorials and assignments online. Registration time conflicts permitted for lecture section only.
-
+ 
   	Registration Closed 	31287 	COMP 2406 	A4 	Fundamentals Web Applications 	0 	Tutorial 	No 	No 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 11:35 - 12:55
   	Also Register in: COMP 2406 A
   	Section Information:  Section Type - IN-PERSON SECTION WITH ALTERNATIVES FOR ONLINE STUDENTS. Weekly tutorials will be held in person on campus but students could also complete and submit tutorials and assignments online. Registration time conflicts permitted for lecture section only.
-
+ 
   	Registration Closed 	31288 	COMP 2406 	B 	Fundamentals Web Applications 	.5 	Lecture 	Yes 	Yes 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
   	Also Register in: COMP 2406 B1 or B2 or B3
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 4504. No registration time conflicts permitted.
-
+ 
   	Registration Closed 	31289 	COMP 2406 	B1 	Fundamentals Web Applications 	0 	Tutorial 	No 	No 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 14:35 - 15:55
   	Also Register in: COMP 2406 B
   	Section Information:  Section Type -IN-PERSON SECTION WITH ALTERNATIVES FOR ONLINE STUDENTS. No registration time conflicts permitted.
-
+ 
   	Registration Closed 	31290 	COMP 2406 	B2 	Fundamentals Web Applications 	0 	Tutorial 	No 	No 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 16:05 - 17:25
   	Also Register in: COMP 2406 B
   	Section Information:  Section Type -IN-PERSON SECTION WITH ALTERNATIVES FOR ONLINE STUDENTS. No registration time conflicts permitted.
-
+ 
   	Registration Closed 	31291 	COMP 2406 	B3 	Fundamentals Web Applications 	0 	Tutorial 	No 	No 	Anil Somayaji
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:05 - 14:25
   	Also Register in: COMP 2406 B
   	Section Information:  Section Type -IN-PERSON SECTION WITH ALTERNATIVES FOR ONLINE STUDENTS. No registration time conflicts permitted.
-
+ 
   	Registration Closed 	31293 	COMP 2801 	A 	Introduction to Robotics 	.5 	Laboratory 	No 	Yes 	Mark Lanthier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 09:35 - 11:25
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. There will be no in-person in-term assessment(s) and no in-person end-of-term final exam. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites.
-
+ 
   	Registration Closed 	31294 	COMP 2804 	A 	Discrete Structures II 	.5 	Lecture 	Yes 	Yes 	Patrick Morin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 16:05 - 17:25
   	Section Information:  Section Type - IN-PERSON SECTION. This is an in-person lecture. Assignments will be submitted online. The midterm and final exams will be in person. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites.
-
+ 
   	Registration Closed 	31295 	COMP 2804 	B 	Discrete Structures II 	.5 	Lecture 	Yes 	Yes 	Patrick Morin
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
   	Section Information:  Section Type - IN-PERSON SECTION. This is an in-person lecture. Assignments will be submitted online. The midterm and final exams will be in person. Must have prerequisite with minimum grade of C- to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites.
-
+ 
   	Registration Closed 	31298 	COMP 3000 	A 	Operating Systems 	.5 	Lecture 	Yes 	Yes 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:05 - 17:25
   	Also Register in: COMP 3000 A1 or A2 or A3 or A4
   	Section Information:  Section Type - IN-PERSON SECTION. Every effort will be made to have lecture recordings available, however we cannot guarantee the timely availability or quality of these recordings. Class attendance is strongly recommended. Must have calendar prerequisites to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 4001.
-
+ 
   	Registration Closed 	31299 	COMP 3000 	A1 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 08:35 - 09:55
   	Also Register in: COMP 3000 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31300 	COMP 3000 	A2 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:05 - 14:25
   	Also Register in: COMP 3000 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31301 	COMP 3000 	A3 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 10:05 - 11:25
   	Also Register in: COMP 3000 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31302 	COMP 3000 	A4 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 13:05 - 14:25
   	Also Register in: COMP 3000 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31303 	COMP 3000 	B 	Operating Systems 	.5 	Lecture 	Yes 	Yes 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
   	Also Register in: COMP 3000 B1 or B2 or B3 or B4
   	Section Information:  Section Type - IN-PERSON SECTION. Every effort will be made to have lecture recordings available, however we cannot guarantee the timely availability or quality of these recordings. Class attendance is strongly recommended. Must have calendar prerequisites to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 4001.
-
+ 
   	Registration Closed 	31304 	COMP 3000 	B1 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 14:35 - 15:55
   	Also Register in: COMP 3000 B
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31305 	COMP 3000 	B2 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:05 - 14:25
   	Also Register in: COMP 3000 B
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31306 	COMP 3000 	B3 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 11:35 - 12:55
   	Also Register in: COMP 3000 B
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31307 	COMP 3000 	B4 	Operating Systems 	0 	Tutorial 	No 	No 	Zinovi Rabinovich
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 10:05 - 11:25
   	Also Register in: COMP 3000 B
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Tutorial sections will be designed to prepare students for exam/quiz question styles. It is also a good time and opportunity to raise questions with reference to practical/programming assignments. Registration time conflicts are permitted for tutorial sections only.
-
+ 
   	Registration Closed 	31308 	COMP 3004 	A 	Object-Oriented Software Engin 	.5 	Lecture 	Yes 	Yes 	Vojislav Radonjic
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
   	Section Information:  Section Type - IN-PERSON SECTION. Lecture recordings are posted on Brightspace. There is no midterm or final exam. Assessment is through individual assignments and a team project, with a mandatory, individual project review during the exam period. Must have calendar prerequisites to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 3020, SYSC 3120, SYSC 4120.
-
+ 
   	Registration Closed 	31309 	COMP 3004 	B 	Object-Oriented Software Engin 	.5 	Lecture 	Yes 	Yes 	Vojislav Radonjic
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Lecture recordings are posted on Brightspace. There is no midterm or final exam. Assessment is through individual assignments and a team project, with a mandatory, individual project review during the exam period. Must have calendar prerequisites to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites. Precludes additional credit for SYSC 3020, SYSC 3120, SYSC 4120.
-
+ 
   	Registration Closed 	31310 	COMP 3005 	A 	Database Management Systems 	.5 	Lecture 	Yes 	Yes 	LD Nel
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 18:05 - 20:55
   	Section Information:  Section Type - ONLINE COMBINED SYNCHRONOUS/ASYNCHRONOUS SECTION. There will be no in-person in-term assessment and no final exam. Blended course with asynchronous online lectures and synchronous online quizzes during official class times. Registration time conflicts are not permitted. Precludes additional credit for BUSI 3400.
-
+ 
   	Registration Closed 	31311 	COMP 3005 	B 	Database Management Systems 	.5 	Lecture 	Yes 	Yes 	LD Nel
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
   	Section Information:  Section Type - ONLINE COMBINED SYNCHRONOUS/ASYNCHRONOUS SECTION. There will be no in-person in-term assessment and no final exam. Blended course with asynchronous online lectures and synchronous online quizzes during official class times. Registration time conflicts are not permitted. Precludes additional credit for BUSI 3400.
-
+ 
   	Registration Closed 	31312 	COMP 3007 	A 	Programming Paradigms 	.5 	Lecture 	Yes 	Yes 	Douglas Howe
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 08:35 - 09:55
   	Section Information:  Section Type - IN-PERSON SECTION. Precludes additional credit for SYSC 3101.
-
+ 
   	Registration Closed 	31313 	COMP 3008 	A 	Human-Computer Interaction 	.5 	Lecture 	Yes 	Yes 	Maxwell Keleher
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
   	Section Information:  Section Type - IN-PERSON SECTION. Lectures recorded but all assessments conducted in person only and graded in-class activities will be conducted each week. Priority to BCS students in Computer & Internet Security, Cybersecurity and Software Engineering streams. On July 24 at 9:00am, permission will be given to all other BCS students. Non-BCS students with course on academic audit or as an option in their program must submit a registration override request on Carleton Central. Calendar prerequisites must be met and access is space permitting.
-
+ 
   	Registration Closed 	35916 	COMP 3009 	A 	Computer Graphics 	.5 	Lecture 	Yes 	Yes 	David Mould
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 14:35 - 15:55
   	Section Information:  Section Type - IN-PERSON SECTION. Students must have their own laptop, and there is no tutorial section for this course. Prerequisite(s): COMP 2401 with a minimum grade of C-, COMP 2402, MATH 1007, and MATH 1104.
-
+ 
   	Registration Closed 	31314 	COMP 3105 	A 	Intro to Machine Learning 	.5 	Lecture 	Yes 	Yes 	Junfeng Wen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
   	Section Information:  Section Type - IN-PERSON SECTION. Precludes additional credit for COMP 4105 (no longer offered), SYSC 4415. Priority to BCS students in AI/ML stream. On July 24 at 9:00am, permission will be given to all other BCS students. Non-BCS students with course on academic audit or as an option in their program must submit a registration override request on Carleton Central. Calendar prerequisites must be met and access is space permitting. Students who took this course in previous years under COMP 4900 Special Topics cannot take this course again for credit.
-
+ 
   	Registration Closed 	31315 	COMP 3106 	A 	Intro to AI 	.5 	Lecture 	Yes 	Yes 	Matthew Holden
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
   	Section Information:  Section Type - IN-PERSON SECTION. Precludes additional credit for COMP 4106 (no longer offered). Priority to BCS students in AI/ML stream. On July 24 at 9:00am, permission will be given to all other BCS students. Non-BCS students with course on academic audit or as an option in their program must submit a registration override request on Carleton Central. Calendar prerequisites must be met and access is space permitting.
-
+ 
   	Registration Closed 	31316 	COMP 3203 	A 	Principles of Computer Network 	.5 	Lecture 	Yes 	Yes 	AbdelRahman Abdou
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
   	Also Register in: COMP 3203 A1
   	Section Information:  Section Type - IN-PERSON SECTION. Precludes additional credit for SYSC 4602.
-
+ 
   	Registration Closed 	31317 	COMP 3203 	A1 	Principles of Computer Network 	0 	Tutorial 	No 	No 	AbdelRahman Abdou
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 18:05 - 19:25
   	Also Register in: COMP 3203 A
   	Section Information:  Section Type - IN-PERSON SECTION. Tutorial attendance is mandatory.
-
+ 
   	Registration Closed 	31318 	COMP 3501 	A 	Foundations of Game Program 	.5 	Lecture 	Yes 	Yes 	David Mould
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 18:05 - 19:25
   	Section Information:  Section Type - IN-PERSON SECTION. BCS Game Development students only.
-
+ 
   	Registration Closed 	31319 	COMP 3801 	A 	Algorithms Modern Data Sets 	.5 	Lecture 	Yes 	Yes 	Anil Maheshwari
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
   	Section Information:  Section Type - IN-PERSON SECTION. Must have prerequisite COMP 2804 with a minimum grade of B+ to remain in course.
-
+ 
   	Registration Closed 	31320 	COMP 3803 	A 	Intro to Theory of Computation 	.5 	Lecture 	Yes 	Yes 	Michiel Smid
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
   	Section Information:  Section Type - IN-PERSON SECTION. Precludes additional credit for COMP2805 (no longer offered).
-
+ 
   	Registration Closed 	31321 	COMP 3804 	A 	Design & Analy of Algorithms I 	.5 	Lecture 	Yes 	Yes 	Jorg Sack
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 14:35 - 15:55
   	Also Register in: COMP 3804 A1
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person. Accommodations are available for online and distance students. Scheduling and Examination Services (for a fee) offers a distance exam service for those students who are studying remotely and not able to come to campus for an in-person exam (https://carleton.ca/ses/distance-exams/). Also listed as MATH 3804.
-
+ 
   	Registration Closed 	31322 	COMP 3804 	A1 	Design & Analy of Algorithms I 	0 	Tutorial 	No 	No 	Jorg Sack
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 08:35 - 09:55
   	Also Register in: COMP 3804 A
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31323 	COMP 3804 	B 	Design & Analy of Algorithms I 	.5 	Lecture 	Yes 	Yes 	Jorg Sack
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 13:05 - 14:25
   	Also Register in: COMP 3804 B1
   	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person. Accommodations are available for online and distance students. Scheduling and Examination Services (for a fee) offers a distance exam service for those students who are studying remotely and not able to come to campus for an in-person exam (https://carleton.ca/ses/distance-exams/). Also listed as MATH 3804.
-
+ 
   	Registration Closed 	31324 	COMP 3804 	B1 	Design & Analy of Algorithms I 	0 	Tutorial 	No 	No 	Jorg Sack
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:05 - 11:25
   	Also Register in: COMP 3804 B
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended.
-
+ 
   	Registration Closed 	31325 	COMP 3805 	A 	Discrete Struct & Appl (Hon.) 	.5 	Lecture 	Yes 	Yes 	Zhicheng Gao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
   	Also Register in: COMP 3805 A1
   	Section Information:  Section Type - IN-PERSON SECTION. Must have prereqs with required grade to remain in course. Precludes additional credit for MATH 3805 (no longer offered) and MATH 3825. Also listed as MATH 3855.
-
+ 
   	Registration Closed 	31326 	COMP 3805 	A1 	Discrete Struct & Appl (Hon.) 	0 	Tutorial 	No 	No 	Zhicheng Gao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:35 - 14:25
   	Also Register in: COMP 3805 A
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31330 	COMP 4001 	A 	Distributed Computing 	.5 	Lecture 	Yes 	Yes 	Evangelos Kranakis
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 17:25
   	Section Information:  Section Type - IN-PERSON SECTION. Must have calendar prerequisites to remain in course. See 2024-25 Undergraduate Calendar for all prerequisites.
-
+ 
   	Registration Closed 	31331 	COMP 4004 	A 	Software Quality Assurance 	.5 	Lecture 	Yes 	Yes 	Jean-Pierre Corriveau
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 13:05 - 14:25
   	Section Information:  Section Type - ONLINE COMBINED SYNCHRONOUS/ASYNCHRONOUS SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person only (campus presence is required). The section is not suitable for distance students. A laptop with IntelliJ and Maven is required. Assignments and in-term assessment(s) will require JUnit, Cucumber and Selenium. The specific versions to use of these tools will be given in the course outline. Precludes additional credit for SYSC 4101. Priority to 3rd and 4th year BCS students.
-
+ 
   	Registration Closed 	31332 	COMP 4010 	A 	Intr to Reinforcement Learning 	.5 	Lecture 	Yes 	Yes 	Junfeng Wen
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
   	Section Information:  Section Type - IN-PERSON SECTION. Priority to 4th year BCS students. 4th year BCS students must submit an override request on Carleton Central to request access. Prerequisites: COMP 2402, (COMP 2404 or SYSC 3010 or SYSC 3110), MATH 1007 and (MATH 1104 or MATH 1107), STAT 2507. Prior to Fall 2024, offered under COMP 4900 Special Topics. Students who took this course under COMP 4900 cannot take this course again for credit.
-
+ 
   	Registration Closed 	31333 	COMP 4108 	A 	Computer Systems Security 	.5 	Lecture 	Yes 	Yes 	David Barrera
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
   	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person only (campus presence is required). Flipped classroom. Students review pre-recorded videos and and book chapters every week and participate in in-person discussions during class time once per week. Priority to BCS students in the Computer & Internet Security Security and Cybersecurity streams. On July 24 at 9:00am, permission will be given to all 3rd and 4th year BCS students. Non-BCS students with course on academic audit or as an option in their program must submit an override request on Carleton Central. Calendar prerequisites must be met and access is space permitting. Calendar prerequisites are (COMP 3000 or SYSC 4001) and COMP 2108 (formerly COMP 3109). New and old prerequisites will be accepted, i.e. COMP 2108, COMP 3109 or COMP 4109. All students must have COMP 3000 or SYSC 4001. Precludes additional credit for SYSC 4810.
-
+ 
   	Registration Closed 	31334 	COMP 4114 	A 	Quantum Computing and Info 	.5 	Lecture 	Yes 	Yes 	Evangelos Kranakis
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 14:35 - 17:25
   	Section Information:  Section Type - IN-PERSON SECTION. Prerequisite: COMP 2804.
-
+ 
   	Registration Closed 	31335 	COMP 4701 	A 	Computing, Society, and Ethics 	.5 	Lecture 	Yes 	Yes 	Koon-Ho Alan Tsang
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 17:35 - 18:55
   	Section Information:  Section Type - IN-PERSON SECTION. Priority to 4th year BCS students. 3rd year BCS students must submit an override request on Carleton Central and access will be space permitting. This course will have significant written and oral communication components. See 2024-25 Undergraduate Calendar for all prerequisites. Students who took this course in previous years under COMP 4900 Special Topics cannot take this course again for credit.
-
+ 
   	Registration Closed 	31336 	COMP 4803 	A 	Computable Functions 	.5 	Lecture 	Yes 	Yes 	Brett Stevens
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
   	Section Information:  Section Type - IN-PERSON SECTION.
-
+ 
   	Registration Closed 	31337 	COMP 4804 	A 	Design & Analysis of Algor II 	.5 	Lecture 	Yes 	Yes 	Prosenjit Bose
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
   	Section Information:  Section Type - IN-PERSON SECTION. Priority to 3rd and 4th BCS year students.
-
+ 
   	Registration Closed 	31338 	COMP 4900 	B 	Multiagent Systems 	.5 	Other 	Yes 	No 	Koon-Ho Alan Tsang
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 13:05 - 14:25
   	Section Information:  Section Type - IN-PERSON SECTION. Special Topics in CS: Multiagent Systems. Multiagent systems is a branch of artificial intelligence that explores the interactions between multiple rational entities, where each may have different information and conflicting priorities. This course takes an approach founded on economic game theory. It examines how coordination and cooperation can emerge, and how to design systems to achieve global goals despite a lack of coordination from individual entities. Students should be comfortable with rigorous mathematics and formal proofs. Assignments will also require basic Python programming skills. No formal prerequisites except BCS students must have 4th year standing. Priority to Grad students in COMP 5900G.
-
+ 
   	Registration Closed 	31339 	COMP 4900 	D 	Geometry Processing 	.5 	Laboratory 	Yes 	Yes 	Oliver van Kaick
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
   	Section Information:  Section Type - IN-PERSON SECTION. Special Topics in CS: Geometry Processing. Concepts, representations, and algorithms for processing 3D geometric datasets. Topics include shape representations (e.g., triangle meshes and implicit functions), and the geometry processing pipeline covering the acquisition (e.g., with laser scanning or depth cameras), reconstruction, manipulation, editing, analysis, and fabrication (3D printing) of geometric models. Prerequisites: COMP 2402, (COMP 2404 or SYSC 3010 or SYSC 3110), MATH 1007 and MATH 1104. Priority to 4th year BCS students.
-
+ 
   	Registration Closed 	31340 	COMP 4900 	E 	Approximation Algorithms 	.5 	Other 	Yes 	Yes 	Svetlana Obraztsova
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
   	Section Information:  Special Type - IN-PERSON SECTION. Selected Topics in CS: Approximation Algorithms. Based on the famed Vazirani's text, we'll go over a series of methods to create approximate solutions to a range of combinatorial and counting problems, paying particular attention to the link with linear programming. Prerequisites: COMP 2804 and COMP 3804.
-
+ 
   	Registration Closed 	31342 	COMP 4900 	G 	Algorithms for Data Science 	.5 	Lecture 	Yes 	Yes 	Anil Maheshwari
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 17:25
   	Section Information:  Section Type - IN-PERSON SECTION. Special Topics in CS: Algorithms for Data Science. The course covers key techniques in the design of algorithms for problems motivated by data science applications. The techniques include the multiplicative-weight update method, locality-sensitive hashing, dimensionality reduction, clustering, online algorithms, linear programming, approximation algorithms, and radomized algorithms. The course is fast-paced, and there will be no time to review the background material. The course consists of assignments, a project and a final exam. Prerequisites: COMP 2804 and COMP 3804 with a minimum grade of A- in each.
-
+ 
   	Registration Closed 	35913 	COMP 4900 	J 	Eye tracking in HCI 	.5 	Lecture 	Yes 	No 	Nadine Marie Moacdieh
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 17:25
   	Section Information:  Section Type - IN-PERSON SECTION. Special Topics in CS: Eye Tracking in Human-Computer Interaction. This course explores the use, benefits, and limitations of eye tracking as an input device, a usability evaluation tool, and as part of an adaptive interface. Topics include human visual attention, techniques to assess user state, types of eye trackers, and the eye tracking data collection, processing, and analysis needed to conduct a research study. No formal prerequisites. Priority to 4th year BCS students.
-
+ 
   	Registration Closed 	35914 	COMP 4900 	K 	Trusted Comp & Emerging Attack 	.5 	Lecture 	Yes 	Yes 	Lianying Zhao
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 08:35 - 11:25
   	Section Information:  Section Type - IN-PERSON SECTION. Special Topics in CS: Trusted Computing and Emerging Attack. This course introduces the paradigm of trusted computing and its evolution over the past decade. Common trusted computing technologies are characterized and categorized. Their application in various academic proposals and industrial solutions is also explained. To generalize it, the positioning of trusted computing as a hardware-based defense approach to trustworthy program execution is shown in a bigger picture and compared with other types of defenses/attacks. Recent (new) attack vectors concerning trustworthy program execution are also reviewed. Prerequisite(s): COMP3000 with a minimum grade of C-.
-
+ 
   	Registration Closed 	31343 	COMP 4901 	A 	Directed Studies 	.5 	Directed Studies 	Yes 	No 	Mark Lanthier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
   	Section Information: Requires permission of the School. See https://carleton.ca/scs/ for more information.
-
+ 
   	Registration Closed 	31344 	COMP 4905 	A 	Honours Project 	.5 	Independent Study 	Yes 	No 	Mark Lanthier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
   	Section Information: For BCS Honours & CS/MATH Combined Honours programs only and permission of the School. Precludes additional credit for COMP 4906. See carleton.ca/scs/ for permission form, instructions and deadlines. Note: COMP 4905 and 4906 are now optional.
-
+ 
   	Registration Closed 	31345 	COMP 4906 	A 	Honours Thesis 	.5 	Research Project 	Yes 	No 	Mark Lanthier
   	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
   	Section Information: 4th year standing in BCS Honours program with minimum CGPA of 9.0 in the major and permission of the School. This is a full credit course taken in Fall/Winter. Precludes additional credit for COMP 4905. See carleton.ca/scs/ for permission form, instructions and deadlines. Note: COMP 4905 and 4906 are now optional.
+ 
 
 
