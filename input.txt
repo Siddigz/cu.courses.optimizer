@@ -677,3 +677,1213 @@ Registration Closed 	31186 	COMP 1001 	A 	Computing for Arts Students 	.5 	Lectu
  
 
 
+Registration Closed 	35392 	STAT 2507 	A 	Intro to Stat Modelling I 	.5 	Lecture 	Yes 	No 	Ahmed Almaskut
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
+  	Also Register in: STAT 2507 A1 or A2 or A3 or A4 or A5 or A6 or A7 or A8 or A9
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 2000, 0, 2300, ECON 2201, ENST 2006, GEOG 2006/3003, STAT 2606/3502.
+ 
+  	Registration Closed 	35393 	STAT 2507 	A1 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 09:35 - 10:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35394 	STAT 2507 	A2 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 10:35 - 11:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35395 	STAT 2507 	A3 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 10:35 - 11:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35396 	STAT 2507 	A4 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 16:35 - 17:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35397 	STAT 2507 	A5 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 14:35 - 15:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35398 	STAT 2507 	A6 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 11:35 - 12:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35399 	STAT 2507 	A7 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 16:35 - 17:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35400 	STAT 2507 	A8 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 11:35 - 12:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35401 	STAT 2507 	A9 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:35 - 14:25
+  	Also Register in: STAT 2507 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35402 	STAT 2507 	B 	Intro to Stat Modelling I 	.5 	Lecture 	No 	No 	Ahmed Almaskut
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Also Register in: STAT 2507 B1 or B2 or B3 or B4 or B5 or B6 or B7 or B8
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 2000, 0, 2300, ECON 2201, ENST 2006, GEOG 2006/3003, STAT 2606/3502.
+ 
+  	Registration Closed 	35403 	STAT 2507 	B1 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 10:35 - 11:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35404 	STAT 2507 	B2 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 15:35 - 16:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35405 	STAT 2507 	B3 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 08:35 - 09:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35406 	STAT 2507 	B4 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 15:35 - 16:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35407 	STAT 2507 	B5 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 12:35 - 13:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35408 	STAT 2507 	B6 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 12:35 - 13:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35409 	STAT 2507 	B7 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:35 - 11:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35410 	STAT 2507 	B8 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 12:35 - 13:25
+  	Also Register in: STAT 2507 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35411 	STAT 2507 	C 	Intro to Stat Modelling I 	.5 	Lecture 	No 	No 	Wayne Horn
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:05 - 17:25
+  	Also Register in: STAT 2507 C1 or C2 or C3 or C4 or C5 or C6 or C7 or C8
+  	Section Information:  Section Type - ONLINE Precludes credit for BIT 2000, 0, 2300, ECON 2201, ENST 2006, GEOG 2006/3003, STAT 2606/3502.
+ 
+  	Registration Closed 	35412 	STAT 2507 	C1 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 16:35 - 17:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35413 	STAT 2507 	C2 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 11:35 - 12:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35414 	STAT 2507 	C3 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 09:35 - 10:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35415 	STAT 2507 	C4 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 13:35 - 14:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35416 	STAT 2507 	C5 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 10:35 - 11:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35417 	STAT 2507 	C6 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 13:35 - 14:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35418 	STAT 2507 	C7 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 08:35 - 09:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35419 	STAT 2507 	C8 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 15:25
+  	Also Register in: STAT 2507 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35420 	STAT 2507 	D 	Intro to Stat Modelling I 	.5 	Lecture 	No 	No 	Wayne Horn
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 08:35 - 09:55
+  	Also Register in: STAT 2507 D1 or D2 or D3 or D4 or D5 or D6 or D7 or D8
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 2000, 2 , 2300, ECON 2201, ENST 2006, GEOG 2006/3003, STAT 2606/3502.
+ 
+  	Registration Closed 	35421 	STAT 2507 	D1 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 11:35 - 12:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35422 	STAT 2507 	D2 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 15:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35423 	STAT 2507 	D3 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 14:35 - 15:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35424 	STAT 2507 	D4 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:35 - 14:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35425 	STAT 2507 	D5 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 11:35 - 12:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35426 	STAT 2507 	D6 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 12:35 - 13:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35427 	STAT 2507 	D7 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 13:35 - 14:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35428 	STAT 2507 	D8 	Intro to Stat Modelling I 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 12:35 - 13:25
+  	Also Register in: STAT 2507 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35429 	STAT 2509 	A 	Intro to Stat Modelling II 	.5 	Lecture 	No 	Yes 	Wayne Horn
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Also Register in: STAT 2509 A1 or A2 or A3 or A4
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for STAT 2607, ECON 2202.
+ 
+  	Registration Closed 	35430 	STAT 2509 	A1 	Intro to Stat Modelling II 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 11:35 - 12:25
+  	Also Register in: STAT 2509 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35431 	STAT 2509 	A2 	Intro to Stat Modelling II 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 10:35 - 11:25
+  	Also Register in: STAT 2509 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35432 	STAT 2509 	A3 	Intro to Stat Modelling II 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 09:35 - 10:25
+  	Also Register in: STAT 2509 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35433 	STAT 2509 	A4 	Intro to Stat Modelling II 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 15:35 - 16:25
+  	Also Register in: STAT 2509 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35434 	STAT 2601 	A 	Business Statistics 	.5 	Lecture 	Yes 	Yes 	Esam Mahdi
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Also Register in: STAT 2601 A1 or A2 or A3 or A4 or A6 or A7 or A8
+  	Section Information:  Section Type - IN-PERSON. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
+ 
+  	Registration Closed 	35435 	STAT 2601 	A1 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 14:35 - 15:25
+  	Also Register in: STAT 2601 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35436 	STAT 2601 	A2 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 11:35 - 12:25
+  	Also Register in: STAT 2601 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35437 	STAT 2601 	A3 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 16:35 - 17:25
+  	Also Register in: STAT 2601 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35438 	STAT 2601 	A4 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 08:35 - 09:25
+  	Also Register in: STAT 2601 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35440 	STAT 2601 	A6 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 17:35 - 18:25
+  	Also Register in: STAT 2601 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35441 	STAT 2601 	A7 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 08:35 - 09:25
+  	Also Register in: STAT 2601 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35442 	STAT 2601 	A8 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 15:35 - 16:25
+  	Also Register in: STAT 2601 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35443 	STAT 2601 	B 	Business Statistics 	.5 	Lecture 	Yes 	Yes 	Tanvir Quadir
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Also Register in: STAT 2601 B1 or B2 or B3 or B4 or B5 or B6 or B7 or B8
+  	Section Information:  Section Type - IN-PERSON This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
+ 
+  	Registration Closed 	35444 	STAT 2601 	B1 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 14:35 - 15:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35445 	STAT 2601 	B2 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 13:35 - 14:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35446 	STAT 2601 	B3 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 09:35 - 10:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35447 	STAT 2601 	B4 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 15:35 - 16:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35448 	STAT 2601 	B5 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 08:35 - 09:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35449 	STAT 2601 	B6 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 16:35 - 17:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35450 	STAT 2601 	B7 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 09:35 - 10:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35451 	STAT 2601 	B8 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 08:35 - 09:25
+  	Also Register in: STAT 2601 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35452 	STAT 2601 	C 	Business Statistics 	.5 	Lecture 	Yes 	Yes 	Tanvir Quadir
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:05 - 17:25
+  	Also Register in: STAT 2601 C1 or C2 or C3 or C4 or C5 or C6 or C7 or C8
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35453 	STAT 2601 	C1 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 12:35 - 13:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35454 	STAT 2601 	C2 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 11:35 - 12:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35455 	STAT 2601 	C3 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 11:35 - 12:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35456 	STAT 2601 	C4 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 08:35 - 09:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35457 	STAT 2601 	C5 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 08:35 - 09:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35458 	STAT 2601 	C6 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 14:35 - 15:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35459 	STAT 2601 	C7 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 16:35 - 17:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35460 	STAT 2601 	C8 	Business Statistics 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 09:35 - 10:25
+  	Also Register in: STAT 2601 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35461 	STAT 2602 	A 	Statistical Models Business 	.5 	Lecture 	No 	Yes 	Gary Bazdell
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 17:25
+  	Also Register in: STAT 2602 A1 or A2 or A3
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35462 	STAT 2602 	A1 	Statistical Models Business 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 10:35 - 11:25
+  	Also Register in: STAT 2602 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35463 	STAT 2602 	A2 	Statistical Models Business 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 16:35 - 17:25
+  	Also Register in: STAT 2602 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35464 	STAT 2602 	A3 	Statistical Models Business 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 09:35 - 10:25
+  	Also Register in: STAT 2602 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35465 	STAT 2605 	A 	Probability Models 	.5 	Lecture 	No 	Yes 	Minyi Huang
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Also Register in: STAT 2605 A1
+  	Section Information:  Section Type - IN-PERSON. Restricted: B.C.S., CompMath, B.Eng.(Communic.) Precludes credit for STAT 2655/3502.
+ 
+  	Registration Closed 	35466 	STAT 2605 	A1 	Probability Models 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 15:25
+  	Also Register in: STAT 2605 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35467 	STAT 2655 	A 	Intro. to Prob. with Appl. 	.5 	Lecture 	Yes 	Yes 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 13:05 - 14:25
+  	Also Register in: STAT 2655 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for STAT 2605. Lectures three hours a week, tutorial one hour a week.
+ 
+  	Registration Closed 	35468 	STAT 2655 	A1 	Intro. to Prob. with Appl. 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 17:35 - 18:25
+  	Also Register in: STAT 2655 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35470 	STAT 3503 	A 	Regression Analysis 	.5 	Lecture 	No 	Yes 	Ahmed Almaskut
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:35 - 17:55
+  	Also Register in: STAT 3503 A1 or A2 or A3
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for STAT 3553.
+ 
+  	Registration Closed 	35471 	STAT 3503 	A1 	Regression Analysis 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 13:35 - 14:25
+  	Also Register in: STAT 3503 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35472 	STAT 3503 	A2 	Regression Analysis 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 15:35 - 16:25
+  	Also Register in: STAT 3503 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35473 	STAT 3503 	A3 	Regression Analysis 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 15:25
+  	Also Register in: STAT 3503 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35475 	STAT 3507 	A 	Sampling Methodology 	.5 	Lecture 	No 	Yes 	Sanjoy Sinha
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 13:05 - 14:25
+  	Also Register in: STAT 3507 A1 or A2 or A3 or A4
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35476 	STAT 3507 	A1 	Sampling Methodology 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 16:35 - 17:25
+  	Also Register in: STAT 3507 A
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35477 	STAT 3507 	A2 	Sampling Methodology 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 15:35 - 16:25
+  	Also Register in: STAT 3507 A
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35478 	STAT 3507 	A3 	Sampling Methodology 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 15:25
+  	Also Register in: STAT 3507 A
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35479 	STAT 3507 	A4 	Sampling Methodology 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 17:35 - 18:25
+  	Also Register in: STAT 3507 A
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35480 	STAT 3508 	A 	Elements of Probability Theory 	.5 	Lecture 	No 	Yes 	Gennady Shaikhet
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
+  	Also Register in: STAT 3508 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for STAT 3558/3608.
+ 
+  	Registration Closed 	35481 	STAT 3508 	A1 	Elements of Probability Theory 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 08:35 - 09:25
+  	Also Register in: STAT 3508 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35482 	STAT 3553 	A 	Regression Modelling 	.5 	Lecture 	No 	Yes 	Sanjeena Dang
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Also Register in: STAT 3553 A1 or A2
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for STAT 3503.
+ 
+  	Registration Closed 	35483 	STAT 3553 	A1 	Regression Modelling 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 17:35 - 18:25
+  	Also Register in: STAT 3553 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35484 	STAT 3553 	A2 	Regression Modelling 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 18:35 - 19:25
+  	Also Register in: STAT 3553 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35485 	STAT 3558 	A 	Elements of Probability Theory 	.5 	Lecture 	No 	Yes 	Mohamedou Ould Mohamed Abdel Haye
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Also Register in: STAT 3558 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for STAT 3508/3608.
+ 
+  	Registration Closed 	35486 	STAT 3558 	A1 	Elements of Probability Theory 	0 	Tutorial 	No 	No 	Mohamedou Ould Mohamed Abdel Haye
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 11:35 - 12:25
+  	Also Register in: STAT 3558 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35487 	STAT 3660 	A 	Actuarial Mathematics I 	.5 	Lecture 	No 	No 	Yunran Wei
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 10:05 - 11:25
+  	Also Register in: STAT 3660 A1
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35488 	STAT 3660 	A1 	Actuarial Mathematics I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 11:35 - 12:25
+  	Also Register in: STAT 3660 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35490 	STAT 4500 	A 	Parametric Estimation 	.5 	Lecture 	Yes 	Yes 	Natalia Stepanova
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35491 	STAT 4502 	A 	Survey Sampling 	.5 	Lecture 	No 	Yes 	Patrick Farrell
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+  	Section Information:  Section Type - ONLINE
+ 
+  	Registration Closed 	35492 	STAT 4503 	A 	Applied Multivariate Analysis 	.5 	Lecture 	Yes 	Yes 	Song Cai
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35493 	STAT 4603 	A 	Time Series & Forecasting 	.5 	Lecture 	Yes 	Yes 	Mohamedou Ould Mohamed Abdel Haye
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 13:05 - 14:25
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35494 	STAT 4604 	A 	Statistical Computing 	.5 	Lecture 	No 	Yes 	Dave Campbell
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 13:05 - 14:25
+  	Also Register in: STAT 4604 A1
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35495 	STAT 4604 	A1 	Statistical Computing 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 16:35 - 17:25
+  	Also Register in: STAT 4604 A
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35496 	STAT 4660 	A 	Actuarial Mathematics II 	.5 	Lecture 	No 	No 	Yunran Wei
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
+  	Also Register in: STAT 4660 A1
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35497 	STAT 4660 	A1 	Actuarial Mathematics II 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 16:35 - 17:25
+  	Also Register in: STAT 4660 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35498 	STAT 4905 	A 	Honours Project (Honours) 	.5 	Honours Essay 	No 	No 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+ 
+  	Registration Closed 	35499 	STAT 4905 	B 	Honours Project (Honours) 	.5 	Honours Essay 	No 	No 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+ 
+  	Registration Closed 	35500 	STAT 4905 	C 	Honours Project (Honours) 	.5 	Honours Essay 	No 	No 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+ 
+
+
+
+ Registration Closed 	32971 	FREN 1001 	A 	French 1 	.5 	Lecture 	No 	Yes 	Ann Kabo
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
+  	Section Information:  Section Type - IN-PERSON. Placement test online Students taking a French course at Carleton for the first time must complete the French Language
+ 
+  	Registration Closed 	32972 	FREN 1001 	B 	French 1 	.5 	Lecture 	No 	Yes 	Ann Kabo
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online
+ 
+  	Registration Closed 	32973 	FREN 1001 	C 	French 1 	.5 	Lecture 	No 	Yes 	Soumaya Neggaz
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement Test online
+ 
+  	Registration Closed 	32974 	FREN 1002 	A 	French 2 	.5 	Lecture 	No 	Yes 	Frank Adou
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online.
+ 
+  	Registration Closed 	32975 	FREN 1002 	B 	French 2 	.5 	Lecture 	No 	Yes 	AbdeRahim Medjhoum
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online.
+ 
+  	Registration Closed 	32976 	FREN 1002 	C 	French 2 	.5 	Lecture 	No 	Yes 	Francine Benny
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online.
+ 
+  	Registration Closed 	32977 	FREN 1002 	D 	French 2 	.5 	Lecture 	No 	Yes 	Francine Benny
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 19:35 - 20:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online.
+ 
+  	Registration Closed 	32978 	FREN 1002 	E 	French 2 	.5 	Lecture 	No 	Yes 	AbdeRahim Medjhoum
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online.
+ 
+  	Registration Closed 	32979 	FREN 1002 	Y 	French 2 	1 	Lecture 	No 	Yes 	Ms. Djaafer
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Tue Thu Time: 11:35 - 13:25
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online
+ 
+  	Registration Closed 	32980 	FREN 1050 	A 	Le français en classe/monde 	.5 	Seminar 	Yes 	Yes 	Carmen Leblanc
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:05 - 17:25
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	32981 	FREN 1100 	A 	French 3 	.5 	Lecture 	No 	Yes 	Ali Ghaharbeighi
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 1110.
+ 
+  	Registration Closed 	32982 	FREN 1100 	B 	French 3 	.5 	Lecture 	No 	Yes 	Ali Ghaharbeighi
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 1110.
+ 
+  	Registration Closed 	32983 	FREN 1100 	C 	French 3 	.5 	Lecture 	No 	Yes 	Celine Bonnotte-Hoover
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 1110.
+ 
+  	Registration Closed 	32984 	FREN 1100 	D 	French 3 	.5 	Lecture 	No 	Yes 	Frank Adou
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 19:35 - 20:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 1110.
+ 
+  	Registration Closed 	32987 	FREN 2100 	B 	French 4 	.5 	Lecture 	No 	Yes 	Brahim Amrendi
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 2110.
+ 
+  	Registration Closed 	32988 	FREN 2100 	C 	French 4 	.5 	Lecture 	No 	Yes 	Frenand Leger
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 2110.
+ 
+  	Registration Closed 	32989 	FREN 2100 	D 	French 4 	.5 	Lecture 	No 	Yes 	Monia Brahim
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 19:35 - 20:55
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 2110.
+ 
+  	Registration Closed 	32990 	FREN 2100 	E 	French 4 	.5 	Lecture 	No 	Yes 	Soumaya Neggaz
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Section Information:  Section Type - IN-PERSON Students taking a French course at Carleton for the first time must complete the French Language Placement test online Precludes additional credit for FREN 2110.
+ 
+  	Registration Closed 	32991 	FREN 2110 	A 	French 4: Writing 	.5 	Lecture 	No 	Yes 	Frenand Leger
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
+  	Section Information:  Section Type - IN-PERSON. Students taking a French course at Carleton for the first time must complete the French Language Placement test online. Precludes additional credit for FREN 2100.
+ 
+  	Registration Closed 	32992 	FREN 2202 	A 	Intro aux etudes litteraires 1 	.5 	Lecture 	No 	Yes 	Christine Duff
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON. Precludes additional credit for FREN 2201.
+ 
+  	Registration Closed 	32993 	FREN 2203 	A 	Intro aux etudes litteraires 2 	.5 	Lecture 	No 	Yes 	Francine Benny
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Section Information:  Section Type - IN-PERSON. Precludes additional credit for FREN 2201.
+ 
+  	Registration Closed 	32994 	FREN 2401 	A 	Intro linguistique française 	.5 	Lecture 	No 	Yes 	Randall Gess
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	32995 	FREN 2401 	B 	Intro linguistique française 	.5 	Lecture 	No 	Yes 	Salvio Digesto
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	32996 	FREN 3050 	A 	Competences Critiques 	.5 	Seminar 	No 	Yes 	Christine Duff
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 14:35 - 17:25
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	35764 	FREN 3213 	A 	Du Baroque aux Lumieres 	.5 	Seminar 	No 	Yes 	Sebastien Cote
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 13:05 - 14:25
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	32998 	FREN 3411 	A 	Phonétique phonologie fran 	.5 	Seminar 	No 	Yes 	Randall Gess
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35765 	FREN 3412 	A 	Morphologie du français 	.5 	Seminar 	No 	Yes 	Salvio Digesto
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	35777 	FREN 3701 	A 	Français Oral 	.5 	Lecture 	No 	Yes 	Apolline Glais
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 11:35 - 14:25
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	33000 	FREN 3702 	A 	Français Écrit 	.5 	Lecture 	No 	Yes 	Celine Bonnotte-Hoover
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 11:35 - 14:25
+  	Section Information:  Section Type - IN-PERSON HyFlex (FLEXIBLE ONLINE/ON CAMPUS ATTENDANCE). Attendance required in-person or online for synchronous portions of the course. Online assessments only.
+ 
+  	Registration Closed 	33002 	FREN 4213 	A 	Litt. Que.Can. Fran 18e siecle 	.5 	Seminar 	No 	Yes 	Sebastien Cote
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 11:35 - 14:25
+  	Section Information:  Section Type - IN-PERSON Also offered at the graduate level, with different requirements, as FREN 5213, for which additional credit is precluded.
+ 
+  	Registration Closed 	33003 	FREN 4412 	A 	Bilinguisme contact ds langues 	.5 	Seminar 	No 	Yes 	Salvio Digesto
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 14:35 - 17:25
+  	Section Information:  Section Type - IN-PERSON. Also listed as LING 4412 for which additional credit is precluded. Also offered at the graduate level, with different requirements, as FREN 5412 for which additional credit is precluded.
+ 
+  	Registration Closed 	33004 	FREN 4801 	A 	Tutorial A 	1 	Tutorial 	Yes 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+  	Section Information: Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. Prerequisite(s): fourth-year standing or permission of the Department.
+ 
+  	Registration Closed 	33005 	FREN 4801 	C 	Tutorial A 	.5 	Tutorial 	Yes 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+  	Section Information: Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. Prerequisite(s): fourth-year standing or permission of the Department.
+ 
+  	Registration Closed 	33006 	FREN 4802 	A 	Tutorial B 	.5 	Tutorial 	Yes 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+  	Section Information: Special topics in an aspect of French studies under the supervision of a faculty member. Note: Students who wish to enrol in a tutorial course must consult the Undergraduate Supervisor, before registration. Prerequisite(s): fourth-year standing or permission of the Department.
+ 
+
+
+ Registration Closed 	34009 	MATH 0005 	A 	Precalculus: Functions & Graph 	.5 	Lecture 	Yes 	No 	Azita Montazeri
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
+  	Also Register in: MATH 0005 A1 or A2 or A3
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34010 	MATH 0005 	A1 	Precalculus: Functions & Graph 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:35 - 11:25
+  	Also Register in: MATH 0005 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34011 	MATH 0005 	A2 	Precalculus: Functions & Graph 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:35 - 11:25
+  	Also Register in: MATH 0005 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34012 	MATH 0005 	A3 	Precalculus: Functions & Graph 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:35 - 11:25
+  	Also Register in: MATH 0005 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34019 	MATH 1004 	A 	Calculus for Engin. or Physics 	.5 	Lecture 	Yes 	No 	Farzane Amirzade Dana
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:35 - 17:55
+  	Also Register in: MATH 1004 AT
+  	Section Information:  Section Type - IN-PERSON. B.Eng. & some B.Sc. programs only Precludes credit for BIT 1000/1100/1200, MATH 1002/1007/1009.
+ 
+  	Registration Closed 	34025 	MATH 1004 	AT 	Calculus for Engin. or Physics 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 18:05 - 18:55
+  	Also Register in: MATH 1004 A
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34026 	MATH 1004 	B 	Calculus for Engin. or Physics 	.5 	Lecture 	Yes 	No 	Danial Saadatmand
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
+  	Also Register in: MATH 1004 BT
+  	Section Information:  Section Type - IN-PERSON. B.Eng. & some B.Sc. programs only Precludes credit for BIT 1000/1100/1200, MATH 1002/1007/1009.
+ 
+  	Registration Closed 	34032 	MATH 1004 	BT 	Calculus for Engin. or Physics 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 17:35 - 18:25
+  	Also Register in: MATH 1004 B
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34033 	MATH 1004 	C 	Calculus for Engin. or Physics 	.5 	Lecture 	Yes 	No 	Henrique Rocha
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 08:35 - 09:55
+  	Also Register in: MATH 1004 CT
+  	Section Information:  Section Type - IN-PERSON. B.Eng. & some B.Sc. programs only Precludes credit for BIT 1000/1100/1200, MATH 1002/1007/1009.
+ 
+  	Registration Closed 	34039 	MATH 1004 	CT 	Calculus for Engin. or Physics 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 11:35 - 12:25
+  	Also Register in: MATH 1004 C
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34040 	MATH 1004 	D 	Calculus for Engin. or Physics 	.5 	Lecture 	Yes 	No 	Mishty Ray
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Also Register in: MATH 1004 DT
+  	Section Information:  Section Type - IN-PERSON. B.Eng. & some B.Sc. programs only Precludes credit for BIT 1000/1100/1200, MATH 1002/1007/1009.
+ 
+  	Registration Closed 	34046 	MATH 1004 	DT 	Calculus for Engin. or Physics 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 17:35 - 18:25
+  	Also Register in: MATH 1004 D
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34047 	MATH 1004 	E 	Calculus for Engin. or Physics 	.5 	Lecture 	Yes 	No 	Mohammad Rafsanjani-Sadeghi
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
+  	Also Register in: MATH 1004 ET
+  	Section Information:  Section Type - IN-PERSON. B.Eng. & some B.Sc. programs only Precludes credit for BIT 1000/1100/1200, MATH 1002/1007/1009.
+ 
+  	Registration Closed 	34053 	MATH 1004 	ET 	Calculus for Engin. or Physics 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 13:35 - 14:25
+  	Also Register in: MATH 1004 E
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34054 	MATH 1004 	F 	Calculus for Engin. or Physics 	.5 	Lecture 	Yes 	No 	Mohammad Rafsanjani-Sadeghi
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 19:35 - 20:55
+  	Also Register in: MATH 1004 FT
+  	Section Information:  Section Type - IN-PERSON. B.Eng. & some B.Sc. programs only Precludes credit for BIT 1000/1100/1200, MATH 1002/1007/1009.
+ 
+  	Registration Closed 	34060 	MATH 1004 	FT 	Calculus for Engin. or Physics 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 21:05 - 21:55
+  	Also Register in: MATH 1004 F
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34061 	MATH 1005 	A 	Diff. Eqs. & Series Eng. & Phy 	.5 	Lecture 	No 	Yes 	Azita Montazeri
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 10:05 - 11:25
+  	Also Register in: MATH 1005 AT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34067 	MATH 1005 	AT 	Diff. Eqs. & Series Eng. & Phy 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 17:35 - 18:25
+  	Also Register in: MATH 1005 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34068 	MATH 1005 	B 	Diff. Eqs. & Series Eng. & Phy 	.5 	Lecture 	No 	Yes 	Ayse Alaca
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Also Register in: MATH 1005 BT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34074 	MATH 1005 	BT 	Diff. Eqs. & Series Eng. & Phy 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 14:35 - 15:25
+  	Also Register in: MATH 1005 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34075 	MATH 1005 	C 	Diff. Eqs. & Series Eng. & Phy 	.5 	Lecture 	No 	Yes 	Ayse Alaca
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Also Register in: MATH 1005 CT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34081 	MATH 1005 	CT 	Diff. Eqs. & Series Eng. & Phy 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 13:35 - 14:25
+  	Also Register in: MATH 1005 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34082 	MATH 1005 	D 	Diff. Eqs. & Series Eng. & Phy 	.5 	Lecture 	No 	Yes 	Gang Li
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Also Register in: MATH 1005 DT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34088 	MATH 1005 	DT 	Diff. Eqs. & Series Eng. & Phy 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 17:35 - 18:25
+  	Also Register in: MATH 1005 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34089 	MATH 1005 	E 	Diff. Eqs. & Series Eng. & Phy 	.5 	Lecture 	No 	Yes 	Eric Hua
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 18:05 - 19:25
+  	Also Register in: MATH 1005 ET
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34095 	MATH 1005 	ET 	Diff. Eqs. & Series Eng. & Phy 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 19:35 - 20:25
+  	Also Register in: MATH 1005 E
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34096 	MATH 1005 	F 	Diff. Eqs. & Series Eng. & Phy 	.5 	Lecture 	No 	Yes 	Gang Li
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 19:35 - 20:55
+  	Also Register in: MATH 1005 FT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34102 	MATH 1005 	FT 	Diff. Eqs. & Series Eng. & Phy 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 21:05 - 21:55
+  	Also Register in: MATH 1005 F
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34103 	MATH 1007 	A 	Elementary Calculus I 	.5 	Lecture 	Yes 	No 	Mark Blenkinsop
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
+  	Also Register in: MATH 1007 AT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 1000/1100/1200, MATH 1002/1004/MATH 1009, MATH 1401/ECON 1401, MATH 1402/ECON 1402. This course will be supported by Peer Assisted Study Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
+ 
+  	Registration Closed 	34108 	MATH 1007 	AT 	Elementary Calculus I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 11:35 - 12:25
+  	Also Register in: MATH 1007 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34109 	MATH 1007 	B 	Elementary Calculus I 	.5 	Lecture 	Yes 	No 	Minyi Huang
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
+  	Also Register in: MATH 1007 BT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 1000/1100/1200, MATH 1002/1004/1009, MATH 1401/ECON 1401, MATH 1402/ECON 1402. This course will be supported by Peer Assisted Stud Sessions (PASS). Further information here: https://carleton.ca/csas/pass/
+ 
+  	Registration Closed 	34115 	MATH 1007 	BT 	Elementary Calculus I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 14:35 - 15:25
+  	Also Register in: MATH 1007 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34116 	MATH 1007 	C 	Elementary Calculus I 	.5 	Lecture 	Yes 	No 	Gennady Shaikhet
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Also Register in: MATH 1007 CT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 1000/1100/1200, MATH 1002/1004/1009, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34121 	MATH 1007 	CT 	Elementary Calculus I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 10:35 - 11:25
+  	Also Register in: MATH 1007 C
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34122 	MATH 1007 	D 	Elementary Calculus I 	.5 	Lecture 	Yes 	No 	Mark Blenkinsop
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
+  	Also Register in: MATH 1007 DT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 1000/1100/1200, MATH 1002/1004/1009, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34127 	MATH 1007 	DT 	Elementary Calculus I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 16:35 - 17:25
+  	Also Register in: MATH 1007 D
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34128 	MATH 1007 	E 	Elementary Calculus I 	.5 	Lecture 	No 	No 	Gang Li
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 18:05 - 19:25
+  	Also Register in: MATH 1007 ET
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 1000/1100/1200, MATH 1002/1004/1009, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34134 	MATH 1007 	ET 	Elementary Calculus I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 19:35 - 20:25
+  	Also Register in: MATH 1007 E
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34135 	MATH 1007 	F 	Elementary Calculus I 	.5 	Lecture 	No 	No 	Brandon Fodden
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 13:05 - 14:25
+  	Also Register in: MATH 1007 FT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34140 	MATH 1007 	FT 	Elementary Calculus I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 14:35 - 15:25
+  	Also Register in: MATH 1007 F
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34141 	MATH 1009 	A 	Mathematics for Business 	.5 	Lecture 	Yes 	No 	Elena Devdariani
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 13:05 - 14:25
+  	Also Register in: MATH 1009 AT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 1000/1100/1200, BUSI 1705 (no longer offered), MATH 1002/1004/1007, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34147 	MATH 1009 	AT 	Mathematics for Business 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 11:35 - 12:25
+  	Also Register in: MATH 1009 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34148 	MATH 1009 	B 	Mathematics for Business 	.5 	Lecture 	Yes 	No 	Azita Montazeri
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Also Register in: MATH 1009 BT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 1000/1100/1200, BUSI 1705 (no longer offered), MATH 1002/1004/1007, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34153 	MATH 1009 	BT 	Mathematics for Business 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 13:35 - 14:25
+  	Also Register in: MATH 1009 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34154 	MATH 1052 	A 	Calculus and Analysis I 	.5 	Lecture 	Yes 	No 	Brandon Fodden
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Also Register in: MATH 1052 AT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34158 	MATH 1052 	AT 	Calculus and Analysis I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 13:05 - 14:25
+  	Also Register in: MATH 1052 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34159 	MATH 1104 	A 	Linear Algebra (Eng. or Sci.) 	.5 	Lecture 	No 	No 	Saban Alaca
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Also Register in: MATH 1104 AT
+  	Section Information:  Section Type - IN-PERSON. B.Eng., B.C.S., & some B.Sc. programs Precludes credit for BIT 1001/1101/1201, MATH 1102/1107/1119, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34165 	MATH 1104 	AT 	Linear Algebra (Eng. or Sci.) 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 10:35 - 11:25
+  	Also Register in: MATH 1104 A
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34166 	MATH 1104 	B 	Linear Algebra (Eng. or Sci.) 	.5 	Lecture 	No 	No 	Saban Alaca
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:35 - 17:55
+  	Also Register in: MATH 1104 BT
+  	Section Information:  Section Type - IN-PERSON. B.Eng., B.C.S., & some B.Sc. programs Precludes credit for BIT 1001/1101/1201, MATH 1102/1107/1119, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34172 	MATH 1104 	BT 	Linear Algebra (Eng. or Sci.) 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 18:05 - 18:55
+  	Also Register in: MATH 1104 B
+  	Section Information:  Section Type - IN-PERSON. The tutorial's location will be posted by your instructor.
+ 
+  	Registration Closed 	34173 	MATH 1107 	E 	Linear Algebra I 	.5 	Lecture 	Yes 	No 	Esam Mahdi
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 13:05 - 14:25
+  	Also Register in: MATH 1107 ET
+  	Section Information:  Section Type - IN-PERSON. Precludes additional credit for BIT 1001, BIT 1101, BIT 1201 , MATH 1102, MATH 1104, MATH 1119, MATH 1401/ECON 1401, MATH 1402/ECON 1402.
+ 
+  	Registration Closed 	34178 	MATH 1107 	ET 	Linear Algebra I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 14:35 - 15:25
+  	Also Register in: MATH 1107 E
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34179 	MATH 1107 	F 	Linear Algebra I 	.5 	Lecture 	No 	No 	Mark Blenkinsop
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 11:35 - 12:55
+  	Also Register in: MATH 1107 FT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34184 	MATH 1107 	FT 	Linear Algebra I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 14:35 - 15:25
+  	Also Register in: MATH 1107 F
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34185 	MATH 1152 	A 	Introductory Algebra I 	.5 	Lecture 	Yes 	No 	Brandon Fodden
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Also Register in: MATH 1152 AT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34189 	MATH 1152 	AT 	Introductory Algebra I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 17:35 - 18:55
+  	Also Register in: MATH 1152 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34190 	MATH 1800 	A 	Intro Mathematical Reasoning 	.5 	Lecture 	Yes 	No 	Mathieu Lemire
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 16:05 - 17:25
+  	Also Register in: MATH 1800 AT
+  	Section Information:  Section Type - IN-PERSON. Precludes additional credit for MATH 1805/COMP 1805.
+ 
+  	Registration Closed 	34194 	MATH 1800 	AT 	Intro Mathematical Reasoning 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 17:35 - 18:25
+  	Also Register in: MATH 1800 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34195 	MATH 2000 	A 	Multivar Calculus and Analysis 	.5 	Lecture 	Yes 	Yes 	Wojciech Jaworski
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Also Register in: MATH 2000 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes additional credit for BIT 2005, MATH 2004, MATH 2008, and MATH 3009.
+ 
+  	Registration Closed 	34196 	MATH 2000 	A1 	Multivar Calculus and Analysis 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 13:05 - 14:25
+  	Also Register in: MATH 2000 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34198 	MATH 2004 	A 	Multivariable Cal. Eng or Phys 	.5 	Lecture 	No 	Yes 	Eric Hua
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
+  	Also Register in: MATH 2004 AT
+  	Section Information:  Section Type - IN-PERSON. B.Eng.,& B.Sc. Physics students only Precludes credit for: BIT 2005, MATH 2008/2009/2000.
+ 
+  	Registration Closed 	34204 	MATH 2004 	AT 	Multivariable Cal. Eng or Phys 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 16:35 - 17:25
+  	Also Register in: MATH 2004 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34205 	MATH 2007 	A 	Elementary Calculus II 	.5 	Lecture 	Yes 	Yes 	Sam Melkonian
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 17:35 - 18:55
+  	Also Register in: MATH 2007 AT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for BIT 2004, MATH 1002/1005.
+ 
+  	Registration Closed 	34210 	MATH 2007 	AT 	Elementary Calculus II 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 19:05 - 19:55
+  	Also Register in: MATH 2007 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34211 	MATH 2008 	A 	Intermediate Calculus 	.5 	Lecture 	Yes 	Yes 	Emmanuel Lorin de la Grandmaison
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 14:35 - 15:55
+  	Also Register in: MATH 2008 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for: BIT 2005, MATH 2004/2009/2000.
+ 
+  	Registration Closed 	34212 	MATH 2008 	A1 	Intermediate Calculus 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 16:35 - 17:25
+  	Also Register in: MATH 2008 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34213 	MATH 2100 	A 	Algebra 	.5 	Lecture 	Yes 	Yes 	Yuly Billig
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Also Register in: MATH 2100 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for MATH 2108/3101.
+ 
+  	Registration Closed 	34214 	MATH 2100 	A1 	Algebra 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 18:05 - 19:25
+  	Also Register in: MATH 2100 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34215 	MATH 2107 	A 	Linear Algebra II 	.5 	Lecture 	Yes 	Yes 	Kyle Harvey
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Also Register in: MATH 2107 AT
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for MATH 1102.
+ 
+  	Registration Closed 	34220 	MATH 2107 	AT 	Linear Algebra II 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 14:35 - 15:25
+  	Also Register in: MATH 2107 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34221 	MATH 2404 	A 	Ordinary Differential Eqs. I 	.5 	Lecture 	No 	Yes 	Abbas Momeni
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
+  	Also Register in: MATH 2404 A1
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34222 	MATH 2404 	A1 	Ordinary Differential Eqs. I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 18:35 - 19:25
+  	Also Register in: MATH 2404 A
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34223 	MATH 2454 	A 	Ordinary Differential Eqs. I 	.5 	Lecture 	Yes 	Yes 	Emmanuel Lorin de la Grandmaison
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 08:35 - 09:55
+  	Also Register in: MATH 2454 A1 or A2
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for MATH 2404.
+ 
+  	Registration Closed 	34224 	MATH 2454 	A1 	Ordinary Differential Eqs. I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 10:35 - 11:25
+  	Also Register in: MATH 2454 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34225 	MATH 2454 	A2 	Ordinary Differential Eqs. I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 10:35 - 11:25
+  	Also Register in: MATH 2454 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34227 	MATH 3001 	A 	Real Analysis I 	.5 	Lecture 	No 	Yes 	Wojciech Jaworski
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 10:05 - 11:25
+  	Also Register in: MATH 3001 A1
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34228 	MATH 3001 	A1 	Real Analysis I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 16:35 - 17:25
+  	Also Register in: MATH 3001 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34231 	MATH 3057 	A 	Complex Analysis 	.5 	Lecture 	No 	Yes 	Charles Starling
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 14:35 - 15:55
+  	Also Register in: MATH 3057 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes additional credit for MATH 3007 and PHYS 3807.
+ 
+  	Registration Closed 	34232 	MATH 3057 	A1 	Complex Analysis 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Time: 17:35 - 18:25
+  	Also Register in: MATH 3057 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34233 	MATH 3106 	A 	Introduction to Group Theory 	.5 	Lecture 	No 	Yes 	Jason Crann
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
+  	Also Register in: MATH 3106 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for MATH 3108.
+ 
+  	Registration Closed 	34234 	MATH 3106 	A1 	Introduction to Group Theory 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 14:35 - 15:25
+  	Also Register in: MATH 3106 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34235 	MATH 3705 	A 	Mathematical Methods I 	.5 	Lecture 	No 	Yes 	Elena Devdariani
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
+  	Also Register in: MATH 3705 AT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34240 	MATH 3705 	AT 	Mathematical Methods I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:35 - 11:25
+  	Also Register in: MATH 3705 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34241 	MATH 3705 	B 	Mathematical Methods I 	.5 	Lecture 	No 	Yes 	Sam Melkonian
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 13:05 - 14:25
+  	Also Register in: MATH 3705 BT
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34246 	MATH 3705 	BT 	Mathematical Methods I 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 17:35 - 18:25
+  	Also Register in: MATH 3705 B
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34247 	MATH 3800 	A 	Modeling and Comp. Methods 	.5 	Lecture 	No 	No 	Kevin Cheung
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Also Register in: MATH 3800 A1 or A3 or A4
+  	Section Information:  Section Type - ONLINE
+ 
+  	Registration Closed 	34248 	MATH 3800 	A1 	Modeling and Comp. Methods 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 11:35 - 12:25
+  	Also Register in: MATH 3800 A
+  	Section Information:  Section Type - ONLINE
+ 
+  	Registration Closed 	34250 	MATH 3800 	A3 	Modeling and Comp. Methods 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 11:35 - 12:25
+  	Also Register in: MATH 3800 A
+  	Section Information:  Section Type - ONLINE
+ 
+  	Registration Closed 	34251 	MATH 3800 	A4 	Modeling and Comp. Methods 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 12:35 - 13:25
+  	Also Register in: MATH 3800 A
+  	Section Information:  Section Type - ONLINE
+ 
+  	Registration Closed 	34252 	MATH 3801 	A 	Linear Programming 	.5 	Lecture 	No 	Yes 	Kyle Harvey
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:35 - 17:55
+  	Also Register in: MATH 3801 A1
+  	Section Information:  Section Type - IN-PERSON Precludes additional credit for ECON 4004, SYSC 3200.
+ 
+  	Registration Closed 	34253 	MATH 3801 	A1 	Linear Programming 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 18:05 - 18:55
+  	Also Register in: MATH 3801 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34254 	MATH 3804 	A 	Algorithm Design & Analysis I 	.5 	Lecture 	Yes 	Yes 	Jorg Sack
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 14:35 - 15:55
+  	Also Register in: MATH 3804 A1
+  	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person. Accommodations are available for online and distance students. Scheduling and Examination Services (for a fee) offers a distance exam service for those students who are studying remotely and not able to come to campus for an in-person exam (https://carleton.ca/ses/distance-exams/). Priority to BMath. Also listed as COMP 3804.
+ 
+  	Registration Closed 	34255 	MATH 3804 	A1 	Algorithm Design & Analysis I 	0 	Tutorial 	Yes 	No 	Jorg Sack
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 08:35 - 09:55
+  	Also Register in: MATH 3804 A
+  	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended.
+ 
+  	Registration Closed 	34256 	MATH 3804 	B 	Algorithm Design & Analysis I 	.5 	Lecture 	Yes 	Yes 	Jorg Sack
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 13:05 - 14:25
+  	Also Register in: MATH 3804 B1
+  	Section Information:  Section Type - ONLINE SYNCHRONOUS SECTION. Both the in-term assessment(s) and the end-of-term final exam will be in person. Accommodations are available for online and distance students. Scheduling and Examination Services (for a fee) offers a distance exam service for those students who are studying remotely and not able to come to campus for an in-person exam (https://carleton.ca/ses/distance-exams/). Priority to BMath. Also listed as COMP 3804.
+ 
+  	Registration Closed 	34257 	MATH 3804 	B1 	Algorithm Design & Analysis I 	0 	Tutorial 	Yes 	No 	Jorg Sack
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Fri Time: 10:05 - 11:25
+  	Also Register in: MATH 3804 B
+  	Section Information:  Section Type - MIX OF IN-PERSON AND ONLINE SECTION. Tutorial attendance is not mandatory but recommended. Priority to BMath.
+ 
+  	Registration Closed 	34258 	MATH 3806 	A 	Numerical Analysis (Honours) 	.5 	Lecture 	Yes 	Yes 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Also Register in: MATH 3806 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for MATH 3800.
+ 
+  	Registration Closed 	34259 	MATH 3806 	A1 	Numerical Analysis (Honours) 	0 	Laboratory 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Time: 13:35 - 14:25
+  	Also Register in: MATH 3806 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34261 	MATH 3809 	A 	Number Theory and Cryptography 	.5 	Lecture 	No 	Yes 	Daniel Panario
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Also Register in: MATH 3809 A1
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34262 	MATH 3809 	A1 	Number Theory and Cryptography 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Thu Time: 11:35 - 12:25
+  	Also Register in: MATH 3809 A
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34263 	MATH 3825 	A 	Discrete Structures & Applic. 	.5 	Lecture 	No 	Yes 	Zhicheng Gao
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Also Register in: MATH 3825 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for MATH 3805/3855.
+ 
+  	Registration Closed 	34264 	MATH 3825 	A1 	Discrete Structures & Applic. 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:35 - 14:25
+  	Also Register in: MATH 3825 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34265 	MATH 3855 	A 	Discrete Struct. & Appli. (Hon.) 	.5 	Lecture 	No 	Yes 	Zhicheng Gao
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 11:35 - 12:55
+  	Also Register in: MATH 3855 A1
+  	Section Information:  Section Type - IN-PERSON. Precludes credit for MATH 3805/3825.
+ 
+  	Registration Closed 	34266 	MATH 3855 	A1 	Discrete Struct. & Appli. (Hon.) 	0 	Tutorial 	No 	No 	 
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Time: 13:35 - 14:25
+  	Also Register in: MATH 3855 A
+  	Section Information:  Section Type - IN-PERSON.
+ 
+  	Registration Closed 	34270 	MATH 4007 	A 	Measure and Integration Theory 	.5 	Lecture 	Yes 	Yes 	Charles Starling
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 14:35 - 15:55
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34271 	MATH 4107 	A 	Commutive Algrebra 	.5 	Lecture 	Yes 	Yes 	Yuly Billig
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 10:05 - 11:25
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34272 	MATH 4109 	A 	Fields and Coding Theory 	.5 	Lecture 	Yes 	Yes 	Daniel Panario
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 11:35 - 12:55
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34274 	MATH 4708 	A 	Asymptot. Mthds Appld Math Hon 	.5 	Lecture 	Yes 	Yes 	David Amundsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 16:05 - 17:25
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34275 	MATH 4803 	A 	Computable Functions 	.5 	Lecture 	No 	Yes 	Brett Stevens
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Wed Fri Time: 08:35 - 09:55
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34276 	MATH 4811 	A 	Combinatorial Design Theory 	.5 	Lecture 	Yes 	Yes 	Brett Stevens
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Mon Wed Time: 10:05 - 11:25
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34277 	MATH 4821 	A 	Quantum Computing (Honours) 	.5 	Lecture 	No 	Yes 	Jason Crann
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Tue Thu Time: 08:35 - 09:55
+  	Section Information:  Section Type - IN-PERSON
+ 
+  	Registration Closed 	34278 	MATH 4905 	A 	Honours Project 	.5 	Honours Essay 	Yes 	No 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+  	Section Information: Unscheduled
+ 
+  	Registration Closed 	34279 	MATH 4905 	B 	Honours Project 	.5 	Honours Essay 	Yes 	No 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+ 
+  	Registration Closed 	34280 	MATH 4905 	C 	Honours Project 	.5 	Honours Essay 	Yes 	No 	Jason Nielsen
+  	Meeting Date: Sep 04, 2024 to Dec 06, 2024 Days: Time:
+ 
+  	Registration Closed 	35955 	MATH 4907 	B 	Introductory Category Theory 	.5 	Directed Studies 	No 	No 	 
