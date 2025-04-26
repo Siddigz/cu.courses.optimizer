@@ -1,17 +1,20 @@
 class Course:
-    def __init__(self, name, code, section, days, time, prof, online, tutorial):
+    def __init__(self, name, code, section, days, time, prof, asyncC, tutorial):
         self.name = name # "COMP"
         self.code = code # "1405"
         self.section = section # "C"   
         self.days = days # "Tue Thu"
         self.time = time # "11:35 - 12:55"
         self.prof = prof # Yanan Mao
-        self.online = online # False
+        self.asyncC = asyncC # False
         self.tutorial = tutorial # False     
              
 
     def toString(self):
-        return (self.name, self.code, self.section, self.days, self.time, self.prof, self.online, self.tutorial)
+     #    return (self.name, self.code, self.section, self.days, self.time, self.prof, self.asyncC, self.tutorial)
+        
+        return (self.name, self.code, self.section, self.days, self.time, self.prof, self.asyncC, self.tutorial)
+        
 
 
 def main():
@@ -29,9 +32,9 @@ def parseText():
     text = open("input.txt","r").read()
     lines = text.split("\n")
     coursesDict = {}
-    for line in lines:
+    for lineIndex in range(len(lines)):
         i = -1
-        words = line.split(" ")
+        words = lines[lineIndex].split(" ")
         for word in words:
             i+=1
             if (word[1:5] in course_names) and (words[i+2][1:].isupper()):
@@ -42,13 +45,8 @@ def parseText():
                     if code not in coursesDict[name]:
                          coursesDict[name][code] = {}
                     section = words[i+2][1:]
-                    #days
-                    days = ""
-                    #time
-                    time = ""
+                    
 
-                    if code == "4801" or code == "4802" or code == "4907" :
-                         print("test")
 
                     #prof
                     prof = "null"
@@ -61,21 +59,51 @@ def parseText():
                             placeholder = words[index] + " " + placeholder
                             index -=1
                     prof = prof[1:-1]
-                    #online
-                    online = ""
+
+                    
+                    if code == "2401" and section == "B1":
+                         print("test")
+
+
                     #tutorial
                     if len(section) == 2:
                          tutorial = True
                     else:
                          tutorial = False
+
+                         
+
+
+
+                    #days
+                    #time
+                    days = ""
+                    time = ""
+                    try:
+                         bLine = lines[lineIndex+1].split(" ")
+                         if tutorial:
+                              # days = bLine[-5]
+                              time = bLine[-3]+bLine[-2]+bLine[-1]
+                         else:
+                              # days = bLine[-6:-4]
+                              time = bLine[-3]+bLine[-2]+bLine[-1]
+                    except:
+                         pass
+                    
+                    if "-" not in time:
+                         asyncC = True
+                         days = ""
+                         time = ""
+                    else:
+                         asyncC = False
                     
                     if (prof == "  " or prof == " ") and tutorial:
                          prof = coursesDict[name][code][section[0:1]].prof
 
-                    object = Course(name, code, section, days, time, prof, online, tutorial)
+                    object = Course(name, code, section, days, time, prof, asyncC, tutorial)
                     coursesDict[name][code][section] = object
     return coursesDict
-#name, code, section, days, time, prof, online, tutorial
+#name, code, section, days, time, prof, asyncC, tutorial
 
 if __name__ == "__main__":
     main()
